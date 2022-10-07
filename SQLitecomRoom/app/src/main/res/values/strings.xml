@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQLite com Room</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="_1">1</string>
+    <string name="luana">Luana</string>
+    <string name="lisboa">Lisboa</string>
+    <string name="_22">22</string>
+</resources>
